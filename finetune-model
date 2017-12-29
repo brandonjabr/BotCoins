@@ -1,0 +1,2 @@
+python3 network.py -train BOTCOINS.csv -iterations 1000 -finetune base-model.h5
+
